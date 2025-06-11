@@ -1,3 +1,3 @@
 <?php
 
-echo"hello index";
+require_once "dbconn.php";
